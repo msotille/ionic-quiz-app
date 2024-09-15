@@ -24,8 +24,8 @@ const Home = () => {
 
 						<IonButton color="dark" className={ styles.helpButton } onClick={() => show({
 							buttons: [{ text: 'Close' }],
-							header: 'How to play',
-							subHeader: 'Pick a category and difficulty, then proceed to answer each question. You will gain a score by getting an answer right and you will also be indicated whether your answer was correct or incorrect. Have fun!'
+							header: 'Como usar',
+							subHeader: 'Escolha uma categoria e a dificuldade, então prossiga para responder cada pergunta. Você ganhará uma pontuação ao acertar uma resposta e também será indicado se sua resposta estava correta ou incorreta.'
 						}) }>
 							<IonIcon icon={ informationCircleOutline } /> How to play
 						</IonButton>
