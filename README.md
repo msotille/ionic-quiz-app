@@ -1,5 +1,5 @@
 # ionic-quiz-app
-A quiz app built with Ionic React
+Um aplicativo de teste criado com Ionic React
 <br />
 If you'd like to support, you can <a className="link" href="https://www.buymeacoffee.com/ionicreacthub" target="_blank" rel="noopener">buy me a coffee</a> ☕️
 

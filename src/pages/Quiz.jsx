@@ -60,7 +60,7 @@ const Quiz = () => {
 
             show({
                 header: "Hang on there!",
-                message: "You must choose a category and difficulty!",
+                message: "Você deve escolher uma categoria e dificuldade!",
                 duration: 3000,
                 color: "warning"
             })
